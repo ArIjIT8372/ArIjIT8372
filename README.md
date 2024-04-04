@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arijit Dirghanji
+- 👋 Hi, I’m Arijit Dirghangi
 - 👀 I’m interested in ... Cyber Security Ethical Hacking
 - 🌱 I’m currently learning ... Web Application Pentration Testing
 <!-- - 💞️ I’m looking to collaborate on ...
