@@ -10,8 +10,12 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 I am a second-year student pursuing BCA in Cyber Security with a passion for Web and Network Penetration Testing. I am always eager to learn new things and love building tools and automation in bash. Currently focusing on enhancing my skills in Web and Network Penetration Testing. In my free time, I enjoy listening to stories and playing games.
 
-
-
+<br />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2330DCCE&lines=|Glad+to+see+you+here!%20:)&center=true&size=30">
+  </a>
+</h1>
 
 
 
