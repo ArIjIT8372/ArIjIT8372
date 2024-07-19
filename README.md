@@ -18,5 +18,35 @@ I am a second-year student pursuing BCA in Cyber Security with a passion for Web
 </h1>
 
 
+### :microscope: Project
+
+* **[Find Hardcoded](https://github.com/arijitdirghangi/Find-Hardcoded)** You can find hardcoded Api-Key,Secret,Token Etc...
+* **[ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVOteejinhgpZJ_jPME-JwXaH84aHkVLUgVf2mzPgjYn0znu8lQuRpnBVGmt01lmhXLU&usqp=CAU" alt="logo" width="12px"> MITM-Detection-and-Preventions](https://github.com/arijitdirghangi/MITM-Detection-and-Preventions)** I built this project during Cybermania at Jetking 2022. It helps detect MITM (Man-in-the-Middle) attacks on Linux-based systems and also provides solutions.
+
+
+<!--
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/arijitdirghangi/Find-Hardcoded">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=arijitdirghangi&repo=Find-Hardcoded" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/arijitdirghangi/MITM-Detection-and-Preventions">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=arijitdirghangi&repo=MITM-Detection-and-Preventions" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+--->
+
+### :mag_right: CVE's
+
+* **[CVE-2024-39090](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39090)** <br>
+<!--*--> 
+
+### :syringe: Exploits published
+
+* **https://github.com/arijitdirghangi/My-CVEs/blob/main/CVE-2024-39090.md**<br> 
 
 
