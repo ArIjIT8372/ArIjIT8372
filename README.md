@@ -45,8 +45,10 @@ I am a second-year student pursuing BCA in Cyber Security with a passion for Web
 
 ![Snake animation](https://raw.githubusercontent.com/arijitdirghangi/arijitdirghangi/main/Images/snake-animation.svg)
 
-  ## 📫 &nbsp;Connect with me
 
+<h3 align="left">📫 &nbsp;Let's Connect  <img src="https://raw.githubusercontent.com/arijitdirghangi/arijitdirghangi/main/Images/handshake.gif" height="22px"></h3>
+<p align="center">
+  
 [![LinkedIn Badge](https://img.shields.io/badge/-arijitdirghangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitdirghangi/)](https://www.linkedin.com/in/arijitdirghangi/)
 [![Gmail Badge](https://img.shields.io/badge/-arijitdirghanji429@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:arijitdirghanji429@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-arijit_dir-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/arijit_dir/)
