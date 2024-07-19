@@ -50,3 +50,22 @@ __Check out my GitHub repository:__
 * **https://github.com/arijitdirghangi/My-CVEs/blob/main/CVE-2024-39090.md**<br> 
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<a href="https://github.com/arijitdirghangi/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdirghangi&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/arijitdirghangi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitdirghangi&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake-dark.svg)
+
+  ## 📫 &nbsp;Connect with me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-arijitdirghangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitdirghangi/)](https://www.linkedin.com/in/arijitdirghangi/)
+[![Gmail Badge](https://img.shields.io/badge/-arijitdirghanji429@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:arijitdirghanji429@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-arijit_dir-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/arijit_dir/)
+[![Twitter Badge](https://img.shields.io/badge/-Arijit_Dir-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Arijit_Dir)
+
+
