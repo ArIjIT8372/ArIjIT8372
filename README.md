@@ -13,7 +13,7 @@ I am a second-year student pursuing BCA in Cyber Security with a passion for Web
 <br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%2330DCCE&lines=|Glad+to+see+you+here!%20:)&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2330DCCE&lines=|Glad+to+see+you+here!%20:)|&center=true&size=30">
   </a>
 </h1>
 
