@@ -29,6 +29,9 @@ I am a second-year student pursuing BCA in Cyber Security with a passion for Web
 * **[CVE-2024-39090](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39090)** <br>
 <!--*--> 
 
+### :closed_book: Write-ups
+* [Sometimes small thing when comes together can create bigger impact](https://medium.com/@arijitdirghangi/sometimes-small-thing-when-comes-together-can-create-bigger-impact-b0608362c04b)<br>
+
 ### :syringe: Exploits published
 
 * **https://github.com/arijitdirghangi/My-CVEs/blob/main/CVE-2024-39090.md**<br> 
