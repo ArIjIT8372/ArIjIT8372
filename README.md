@@ -30,7 +30,7 @@ I am a second-year student pursuing BCA in Cyber Security with a passion for Web
 <!--*--> 
 
 ### :closed_book: Write-ups
-* [Sometimes small thing when comes together can create bigger impact](https://medium.com/@arijitdirghangi/sometimes-small-thing-when-comes-together-can-create-bigger-impact-b0608362c04b)<br>
+* **[Sometimes small thing when comes together can create bigger impact](https://medium.com/@arijitdirghangi/sometimes-small-thing-when-comes-together-can-create-bigger-impact-b0608362c04b)** <br>
 
 ### :syringe: Exploits published
 
