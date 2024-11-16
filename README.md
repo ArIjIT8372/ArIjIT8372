@@ -31,6 +31,9 @@ I am a second-year student pursuing BCA in Cyber Security with a passion for Web
 
 ### :closed_book: Write-ups
 * **[Sometimes small thing when comes together can create bigger impact](https://medium.com/@arijitdirghangi/sometimes-small-thing-when-comes-together-can-create-bigger-impact-b0608362c04b)** <br>
+* **[File Upload Bypass (Nginx + PHP)](https://medium.com/@arijitdirghangi/file-upload-bypass-nginx-php-a1c062290c4e)** <br>
+
+
 
 ### :syringe: Exploits published
 
